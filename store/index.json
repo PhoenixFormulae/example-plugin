@@ -1,7 +1,18 @@
 {
-  "name": "Example Plugin",
+  "title": "Example Plugin",
   "price": 40,
   "discount-price": 20,
   "coupon": "EXAMPLE",
+
+  "showcase": {
+    "logo": "https://i.imgur.com/DLSE87g.png",
+    "images": [
+      "https://i.imgur.com/CHZZy1N.jpeg"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=q8wj8h6iJqQ"
+    ]
+  },
+
   "feedback-url": "https://github.com/PhoenixFormulae/example-plugin"
 }
