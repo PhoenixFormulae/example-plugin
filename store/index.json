@@ -1,0 +1,7 @@
+{
+  "name": "Example Plugin",
+  "price": 40,
+  "discount-price": 20,
+  "coupon": "EXAMPLE",
+  "feedback-url": "https://github.com/PhoenixFormulae/example-plugin"
+}
