@@ -4,6 +4,9 @@
   "discount-price": 20,
   "coupon": "EXAMPLE",
 
+  "summary": "This is an example plugin product",
+  "description": "This is an example plugin product for the PxF Store and this is the description of this product",
+
   "showcase": {
     "logo": "https://i.imgur.com/DLSE87g.png",
     "images": [
